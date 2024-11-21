@@ -92,8 +92,8 @@ print(mse(y_test,predicted_stock_price))
 
 
 ### Mean Square Error
+![image](https://github.com/user-attachments/assets/740d9655-bab1-4cf0-8620-93aeaababb71)
 
-![image](https://github.com/user-attachments/assets/84d7a70e-8494-478b-9497-5d26d2dddbde)
 
 
 ## Result
